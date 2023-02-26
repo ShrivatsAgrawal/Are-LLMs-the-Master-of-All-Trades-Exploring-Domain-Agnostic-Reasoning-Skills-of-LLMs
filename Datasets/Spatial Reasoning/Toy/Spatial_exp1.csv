@@ -1,0 +1,121 @@
+,Prefix,Question,GT Answer,Prediction,Correct
+0,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: Triangle
+Shape2: Square
+Shape3: Pentagon
+Shape4: Heptagon
+",False,True,0
+1,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: Triangle
+Shape2: Square
+Shape3: Pentagon
+Shape4: Hexagon
+",True,True,1
+2,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: Square
+Shape2: Pentagon
+Shape3: Hexagon
+Shape4: Heptagon
+",True,True,1
+3,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: Square
+Shape2: Pentagon
+Shape3: Hexagon
+Shape4: Octagon
+",False,True,0
+4,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A square with 2 dots in it.
+Shape3: A pentagon with 2 dots in it.
+Shape4: A hexagon with 2 dots in it.
+",True,True,1
+5,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A square with 2 dots in it.
+Shape3: A pentagon with 2 dots in it.
+Shape4: A heptagon with 2 dots in it.
+",False,True,0
+6,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A square with 3 dots in it.
+Shape3: A pentagon with 4 dots in it.
+Shape4: A hexagon with 5 dots in it.
+",True,True,1
+7,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A square with 3 dots in it.
+Shape3: A pentagon with 4 dots in it.
+Shape4: A heptagon with 5 dots in it.
+",False,True,0
+8,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A square with 3 dots in it.
+Shape3: A pentagon with 4 dots in it.
+Shape4: A hexagon with 6 dots in it.
+",False,True,0
+9,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A square with 4 dots in it.
+Shape3: A pentagon with 6 dots in it.
+Shape4: A hexagon with 8 dots in it.
+",True,True,1
+10,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A triangle with 4 dots in it.
+Shape3: A triangle with 6 dots in it.
+Shape4: A triangle with 10 dots in it.
+",False,True,0
+11,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 2 dots in it.
+Shape2: A triangle with 3 dots in it.
+Shape3: A triangle with 4 dots in it.
+Shape4: A square with 6 dots in it.
+",False,False,1
+12,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 3 dots in it.
+Shape2: A square with 4 dots in it.
+Shape3: A hexagon with 6 dots in it.
+Shape4: A octagon with 8 dots in it.
+",True,True,1
+13,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A square with 1 red dot.
+Shape2: A square with 1 black dot.
+Shape3: A square with 1 red dot.
+Shape4: A square with 1 black dot.
+",True,True,1
+14,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A square with 1 red dot.
+Shape2: A square with 1 black dot.
+Shape3: A square with 1 red dot.
+Shape4: A square with 1 red dot.
+",False,True,0
+15,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A square with 1 red dot.
+Shape2: A square with 2 black dots.
+Shape3: A square with 3 red dots.
+Shape4: A square with 4 black dots.
+",True,True,1
+16,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A square with 1 red dot.
+Shape2: A square with 2 black dots.
+Shape3: A square with 3 red dots.
+Shape4: A square with 4 red dots.
+",False,True,0
+17,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 3 red dots in it.
+Shape2: A square with 4 black dots in it.
+Shape3: A pentagon with 5 red dots in it.
+Shape4: A hexagon with 6 black dots in it.
+",True,True,1
+18,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 3 red dots in it.
+Shape2: A square with 4 black dots in it.
+Shape3: A pentagon with 5 red dots in it.
+Shape4: A hexagon with 6 red dots in it.
+",False,True,0
+19,"The description of Shape1, Shape2, Shape3 is provided. On the basis of this information determine whether Shape4 will continue the pattern?","
+Shape1: A triangle with 3 red dots in it.
+Shape2: A square with 4 black dots in it.
+Shape3: A hexagon with 6 red dots in it.
+Shape4: A octagon with 800 red dots in it.
+",False,False,1
