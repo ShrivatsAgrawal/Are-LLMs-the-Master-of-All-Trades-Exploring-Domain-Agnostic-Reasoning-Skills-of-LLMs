@@ -1,6 +1,13 @@
 # Are-LLMs-the-Master-of-All-Trades-Exploring-Domain-Agnostic-Reasoning-Skills-of-LLMs
 Evaluating the performance of GPT-3 Davinci and ChatGPT across analogical, spatial and moral reasoning domains.
 
+## TODOs
+
+- [x] Creation of toy analogical and spatial reasoning datasets.
+- [ ] Add free-form natural language questions for evaluation analogical reasoning.
+- [ ] Add free-form natural language questions for evaluation spatial reasoning.
+- [ ] Add free-form natural language questions for evaluation moral reasoning.
+
 ## References
 
 If you intend to use the BATS dataset for analogical reasoning please cite the following paper.
