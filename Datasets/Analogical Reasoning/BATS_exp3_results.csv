@@ -1,0 +1,201 @@
+,Relation,A,B,C,D,Prediction,Correct
+0,hypernyms - animals,velociraptor,dinosaur,duck,"['fowl', 'bird', 'vertebrate', 'poultry', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'poultry', 'chordate', 'domestic fowl', 'waterfowl', 'water fowl', 'animate being', 'anseriform bird', 'craniate', 'living thing']",bird,1
+1,hypernyms - animals,lion,craniate,allosaurus,"['dinosaur', 'reptile', 'bird', 'archosaur', 'archosaurian', 'archosaurian reptile']",reptile,1
+2,hypernyms - animals,tiger,placental,falcon,"['raptor', 'bird', 'vertebrate', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'chordate', 'animate being', 'craniate', 'living thing', 'raptorial bird', 'bird of prey']",aves  bird,1
+3,hypernyms - animals,jaguar,big cat,lion,"['feline', 'cat', 'beast', 'animal', 'organism', 'fauna', 'placental', 'carnivore', 'chordate', 'felid', 'eutherian', 'mammal', 'mammalian', 'eutherian mammal', 'animate being', 'placental mammal', 'craniate', 'big cat']",king of the beasts,1
+4,hypernyms - animals,vulture,being,viper,"['snake', 'reptile', 'snake', 'serpent', 'ophidian']",striking,0
+5,hypernyms - animals,quail,gallinacean,chicken,"['fowl', 'bird', 'vertebrate', 'poultry', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'poultry', 'chordate', 'domestic fowl', 'animate being', 'gallinaceous bird', 'craniate', 'gallinacean', 'living thing']",avian,0
+6,hypernyms - animals,vulture,beast,tyrannosaurus,"['dinosaur', 'reptile', 'theropod', 'theropod dinosaur', 'bird footed dinosaur', 'archosaur', 'archosaurian', 'archosaurian reptile']",dinosaur,1
+7,hypernyms - animals,mouse,eutherian mammal,jaguar,"['feline', 'cat', 'beast', 'animal', 'organism', 'fauna', 'placental', 'carnivore', 'chordate', 'felid', 'eutherian', 'mammal', 'mammalian', 'eutherian mammal', 'animate being', 'placental mammal', 'craniate', 'big cat']",felid,1
+8,hypernyms - animals,velociraptor,archosaurian,fox,"['canine', 'vertebrate', 'creature', 'beast', 'canid', 'being', 'animal', 'organism', 'fauna', 'placental', 'carnivore', 'chordate', 'eutherian', 'mammal', 'mammalian', 'animate being', 'eutherian mammal', 'locomote', 'placental mammal', 'craniate', 'domesticated animal', 'physical entity', 'domestic animal', 'living thing']",canid,1
+9,hypernyms - animals,cow,physical hoofed mammal,cat,"['feline', 'beast', 'animal', 'organism', 'fauna', 'placental', 'carnivore', 'chordate', 'felid', 'eutherian', 'mammal', 'mammalian', 'eutherian mammal', 'animate being', 'placental mammal', 'craniate']",physical feline mammal,1
+10,hypernyms - animals,leopard,placental mammal,ant,"['insect', 'invertebrate', 'creature', 'beast', 'hymenopteran', 'being', 'animal', 'organism', 'fauna', 'arthropod', 'hymenopterous insect', 'animate being', 'physical hymenopteron', 'physical entity', 'hymenopter', 'living thing']",insect,1
+11,hypernyms - animals,ant,invertebrate,chicken,"['fowl', 'bird', 'vertebrate', 'poultry', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'poultry', 'chordate', 'domestic fowl', 'animate being', 'gallinaceous bird', 'craniate', 'gallinacean', 'living thing']",bird,1
+12,hypernyms - animals,lion,felid,mouse,"['rodent', 'vertebrate', 'creature', 'beast', 'animal', 'organism', 'fauna', 'placental', 'chordate', 'eutherian', 'mammal', 'mammalian', 'eutherian mammal', 'gnawer', 'animate being', 'living thing', 'placental mammal', 'craniate']",rodent,1
+13,hypernyms - animals,orangutan,primate,buffalo,"['bovid', 'mammal', 'bison', 'cow', 'vertebrate', 'creature', 'ungulate', 'beast', 'being', 'animal', 'organism', 'fauna', 'placental', 'artiodactyl', 'ruminant', 'chordate', 'eutherian', 'mammalian', 'bovine', 'animate being', 'eutherian mammal', 'placental mammal', 'craniate', 'physical hoofed mammal', 'physical entity', 'even toed ungulate', 'artiodactyl mammal', 'living thing']",mammal,1
+14,hypernyms - animals,coyote,mammal,cobra,"['snake', 'reptile', 'elapid', 'elapid snake', 'serpent', 'ophidian']",reptile,1
+15,hypernyms - animals,cat,organism,duck,"['fowl', 'bird', 'vertebrate', 'poultry', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'poultry', 'chordate', 'domestic fowl', 'waterfowl', 'water fowl', 'animate being', 'anseriform bird', 'craniate', 'living thing']",animal,1
+16,hypernyms - animals,dog,living thing,butterfly,"['insect', 'creature', 'beast', 'lepidopteran', 'animal', 'organism', 'fauna', 'arthropod', 'lepidopterous insect', 'lepidopteron', 'animate being', 'living thing']",living thing,1
+17,hypernyms - animals,buffalo,bison,orangutan,"['primate', 'vertebrate', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'placental', 'hominid', 'chordate', 'eutherian', 'mammal', 'ape', 'mammalian', 'animate being', 'eutherian mammal', 'placental mammal', 'craniate', 'physical physical entity', 'living thing']",primate,1
+18,hypernyms - animals,jaguar,feline,owl,"['raptor', 'bird', 'vertebrate', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'chordate', 'animate being', 'craniate', 'living thing', 'raptorial bird', 'bird of prey']",avian,0
+19,hypernyms - animals,chicken,craniate,vulture,"['raptor', 'bird', 'vertebrate', 'creature', 'beast', 'being', 'animal', 'organism', 'fauna', 'chordate', 'animate being', 'craniate', 'living thing', 'raptorial bird', 'bird of prey']",aves,0
+20,hypernyms - misc,blender,physical object,toothbrush,"['brush', 'toiletry', 'toilet articles', 'implement', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity', 'mustache', 'moustache', 'facial hair', 'hair', 'body covering', 'covering', 'natural covering', 'cover', 'natural object', 'unit', 'object', 'physical object', 'physical entity', 'entity']",hygiene,0
+21,hypernyms - misc,sofa,piece of furniture,stapler,"['device', 'machine', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",office supply,0
+22,hypernyms - misc,postcard,mail,sidewalk,"['walk', 'walkway', 'paseo', 'path', 'way', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",walk,1
+23,hypernyms - misc,dishwasher,household appliance,desk,"['furniture', 'table', 'piece of furniture', 'article of furniture', 'furnishing', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",furniture,1
+24,hypernyms - misc,diary,journal,jacket,"['clothes', 'coat', 'overgarment', 'outer garment', 'garment', 'clothing', 'article of clothing', 'vesture', 'wear', 'wearable', 'habiliment', 'consumer goods', 'covering', 'commodity', 'trade good', 'good', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",coat,1
+25,hypernyms - misc,plum,fruit,hamburger,"['sandwich', 'snack food', 'dish', 'nutriment', 'nourishment', 'nutrition', 'sustenance', 'aliment', 'alimentation', 'victuals', 'food', 'nutrient', 'substance', 'matter', 'physical entity', 'entity', 'beef', 'boeuf', 'meat', 'food', 'solid food', 'solid', 'matter', 'physical entity', 'entity']",sandwich,1
+26,hypernyms - misc,perfume,artifact,notebook,"['book', 'volume', 'product', 'production', 'creation', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity', 'portable computer', 'personal computer', 'pc', 'microcomputer', 'digital computer', 'computer', 'computing machine', 'computing device', 'data processor', 'electronic computer', 'information processing system', 'machine', 'device', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",notebook is to book,1
+27,hypernyms - misc,postcard,abstract entity,stapler,"['device', 'machine', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",physical object,1
+28,hypernyms - misc,sofa,seat,blender,"['appliance', 'mixer', 'kitchen utensil', 'utensil', 'implement', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",blend,0
+29,hypernyms - misc,armchair,article of furniture,peach,"['fruit', 'drupe', 'stone fruit', 'edible fruit', 'fruit', 'produce', 'green goods', 'green groceries', 'garden truck', 'food', 'matter', 'natural object', 'physical entity', 'unit', 'entity', 'object', 'physical object']",fruit,1
+30,hypernyms - misc,sidewalk,walkway,grapefruit,"['citrus', 'citrus fruit', 'citrous fruit', 'fruit', 'edible fruit', 'fruit', 'produce', 'green goods', 'green groceries', 'garden truck', 'food', 'matter', 'natural object', 'physical entity', 'unit', 'entity', 'object', 'physical object']",citrus,1
+31,hypernyms - misc,sofa,artefact,deodorant,"['toiletry', 'toilet articles', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",hygiene,0
+32,hypernyms - misc,pie,tongue,stapler,"['device', 'machine', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",hand,0
+33,hypernyms - misc,lotion,unit,stapler,"['device', 'machine', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",staples,0
+34,hypernyms - misc,juicer,unit,sunscreen,"['cream', 'lotion', 'ointment', 'emollient', 'toiletry', 'toilet articles', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",spf,0
+35,hypernyms - misc,hairnet,net,croissant,"['pastry', 'bun', 'roll', 'bread', 'breadstuff', 'staff of life', 'baked goods', 'starches', 'food', 'solid food', 'foodstuff', 'food product', 'solid', 'food', 'nutrient', 'matter', 'substance', 'physical entity', 'entity']",pastry,1
+36,hypernyms - misc,hairpin,restraint,sidewalk,"['walk', 'walkway', 'paseo', 'path', 'way', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity']",pathway,0
+37,hypernyms - misc,toaster,durable goods,postcard,"['card', 'correspondence', 'first class', '1st class', 'first class mail', '1st class mail', 'written communication', 'written language', 'black and white', 'mail', 'communication', 'message', 'abstraction', 'abstract entity', 'entity']",collectibles,0
+38,hypernyms - misc,shirt,object,cake,"['dessert', 'baked goods', 'food', 'solid food', 'course', 'nutriment', 'nourishment', 'nutrition', 'sustenance', 'aliment', 'alimentation', 'victuals', 'food', 'nutrient', 'substance', 'matter', 'physical entity', 'entity']",food,1
+39,hypernyms - misc,fridge,good,toothbrush,"['brush', 'toiletry', 'toilet articles', 'implement', 'artifact', 'artefact', 'unit', 'object', 'physical object', 'physical entity', 'entity', 'mustache', 'moustache', 'facial hair', 'hair', 'body covering', 'covering', 'natural covering', 'cover', 'natural object', 'unit', 'object', 'physical object', 'physical entity', 'entity']",clean,0
+40,hyponyms - misc,season,peak,seat,"['chair', 'bench', 'box', 'ottoman', 'pouf', 'pouffe', 'puff', 'hassock', 'sofa', 'couch', 'lounge', 'stool', 'toilet']",cushion,0
+41,hyponyms - misc,cutlery,teaspoon,weapon,"['gun', 'bow', 'bow', 'arrow', 'dart', 'knucks', 'knuckles', 'flamethrower', 'knife', 'missile', 'pike', 'projectile', 'slasher', 'sling', 'spear', 'lance', 'shaft', 'stun', 'baton', 'sword', 'blade', 'brand', 'steel', 'tomahawk', 'hatchet', 'fire']",sword,1
+42,hyponyms - misc,oven,rotisserie,container,"['bag', 'handbag', 'pocketbook', 'purse', 'basket', 'handbasket', 'bin', 'bowl', 'pipe', 'bowl', 'box', 'bread bin', 'breadbox', 'bunker', 'can', 'tin', 'canister', 'cannister', 'capsule', 'cargo', 'case', 'display', 'showcase', 'vitrine', 'cassette', 'cup', 'cylinder', 'dice', 'cup', 'box', 'dish', 'dispenser', 'drawer', 'dumpster', 'empty', 'envelope', 'glass', 'bag', 'bottle', 'mailer', 'manger', 'trough', 'measure', 'mold', 'mould', 'cast', 'package', 'parcel', 'pan', 'pod', 'pot', 'flowerpot', 'flask', 'receptacle', 'reliquary', 'saltcellar', 'savings', 'bank', 'coin', 'money', 'bank', 'scuttle', 'coal', 'scuttle', 'shaker', 'spoon', 'thimble', 'capsule', 'vessel', 'basket', 'bin', 'waste paper', 'wastebasket', 'waste', 'file', 'can', 'pot', 'workbasket', 'workbox', 'workbag']",storage,0
+43,hyponyms - misc,backpack,daypack,flask,"['thermos', 'ampulla', 'canteen', 'erlenmeyer flask', 'hipflask', 'pocket flask', 'round bottom flask', 'vacuum flask', 'vacuum bottle', 'dewar flask', 'dewar', 'thermos bottle', 'thermos flask']",hip flask,1
+44,hyponyms - misc,cookware,cooker,burger,"['hamburger', 'cheeseburger', '50', '50 burger', 'angus burger', 'banquet burger', 'barbecue burger', 'bøfsandwich', 'utter burge', 'buffalo burger', 'california burger', 'chili burger', 'curry burger', 'hamdog', 'salmon burger', 'rice burger', 'veggie burger']",grill,0
+45,hyponyms - misc,color,azure,cup,"['teacup', 'beaker', 'chalice', 'goblet', 'coffee cup', 'dixie', 'paper cup', 'grace', 'kylix', 'cylix', 'mustache cup', 'moustache cup', 'scyphus', 'grail']",mug,0
+46,hyponyms - misc,citrus,orange,mixer,"['blender', 'liquidizer', 'liquidiser', 'eggbeater', 'eggwhisk', 'electric', 'whisk']",blender,1
+47,hyponyms - misc,jewel,pearl,shirt,"['polo', 'camise', 'dashiki', 'daishiki', 'dress', 'evening', 'hair', 'jersey', 't shirt', 'tee', 'kurta', 'sport', 'tank', 'work shirt']",cloth,0
+48,hyponyms - misc,camera,box kodak,brush,"['toothbrush', 'bottlebrush', 'bristle', 'clothesbrush', 'hairbrush', 'nailbrush', 'paintbrush', 'sable', 'scrub', 'scrubbing', 'scrubber', 'shaving brush']",paint,1
+49,hyponyms - misc,railway,funicular,citrus,"['lemon', 'orange', 'lime', 'mandarin', 'tangerine', 'yuzu']",lemon,1
+50,hyponyms - misc,computer,smartphone,cutlery,"['knife', 'fork', 'spoon', 'tablefork', 'teaspoon', 'dessert spoon', 'salad fork', 'carving fork']",utensils,0
+51,hyponyms - misc,citrus,tangerine,dessert,"['cake', 'ambrosia', 'baked alaska', 'blancmange', 'charlotte', 'compote', 'fruit compote', 'dumpling', 'flan', 'frozen dessert', 'junket', 'mold', 'mould', 'mousse', 'pavlova', 'peach melba', 'pudding', 'pud', 'pudding', 'syllabub', 'sillabub', 'tiramisu', 'whip', 'zabaglione', 'sabayon', 'charlotte russe', 'apple dumpling', 'frozen custard', 'soft ice cream', 'frozen pudding', 'frozen yogurt', 'ice cream cake', 'icebox cake', 'ice cream cone', 'ice cream sundae', 'sundae', 'ice', 'frappe', 'ice cream', 'icecream', 'ice lolly', 'lolly', 'lollipop', 'popsicle', 'ice milk', 'parfait', 'sherbert', 'sherbet', 'snowball', 'snowball', 'split', 'chocolate mousse', 'trifle', 'brown betty', 'chocolate pudding', 'duff', 'plum duff', 'flummery', 'nesselrode', 'nesselrode pudding', 'pease pudding', 'plum pudding', 'christmas pudding', 'roly poly', 'roly poly pudding', 'steamed pudding', 'suet pudding', 'tapioca pudding', 'vanilla pudding', 'prune whip', 'water ice', 'sorbet', 'chocolate ice cream', 'neapolitan ice cream', 'peach ice cream', 'strawberry ice cream', 'tutti frutti', 'vanilla ice cream', 'banana split', 'tipsy cake', 'spotted dick', 'choc ice']",cake,1
+52,hyponyms - misc,bed,bunk,sofa,"['divan', 'diwan', 'convertible sofa', 'daybed', 'loveseat', 'settee', 'squab']",couch,0
+53,hyponyms - misc,season,summertime,month,"['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december', 'jan', 'feb', 'mar', 'apr', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']",july,1
+54,hyponyms - misc,gun,pom pom,drum,"['tambourine', 'bass drum', 'gran casa', 'bongo', 'bongo drum', 'snare drum', 'snare', 'side drum', 'tabor', 'tabour', 'tambour', 'tenor drum', 'tom tom', 'timbrel', 'djembe', 'doumbek', 'darbuka']",cymbal,0
+55,hyponyms - misc,song,berceuse,cloud,"['thundercloud', 'cirrocumulus', 'cirrocumulus', 'cirrostratus', 'cirrus', 'contrail', 'condensation', 'trail', 'cumulonimbus', 'cumulonimbus', 'cumulus', 'nacreous', 'nebule', 'nimbus', 'rain', 'storm', 'stratus', 'mushroom', 'smoke']",nimbus,1
+56,hyponyms - misc,dress,kirtle,bag,"['pouch', 'backpack', 'knapsack', 'packsack', 'rucksack', 'haversack', 'beanbag', 'bladder', 'pouch', 'carryall', 'holdall', 'tote', 'tote', 'drawstring', 'dust', 'vacuum', 'envelope', 'gasbag', 'gamebag', 'golf', 'gunnysack', 'gunny', 'burlap', 'ice', 'mailbag', 'postbag', 'nosebag', 'feedbag', 'pannier', 'plastic', 'purse', 'ragbag', 'rosin', 'sachet', 'sack', 'poke', 'paper', 'carrier', 'saddlebag', 'sandbag', 'schoolbag', 'shopping', 'sick bag', 'sickbag', 'skin', 'sleeping', 'sweat', 'tea', 'toilet', 'sponge', 'tool', 'tucker bag']",satchel,0
+57,hyponyms - misc,railway,rack,backpack,"['daypack', 'kitbag', 'kit bag']",strap,0
+58,hyponyms - misc,trousers,jodhpur breeches,camera,"['camcorder', 'box camera', 'box kodak', 'candid camera', 'digital camera', 'flash camera', 'motion picture camera', 'movie camera', 'cine camera', 'point and shoot camera', 'point and shoot', 'polaroid camera', 'polaroid land camera', 'polaroid', 'portrait camera', 'reflex camera', 'webcam', 'webcamera', 'sound camera']",camcorder,1
+59,hyponyms - misc,burger,chili burger,backpack,"['daypack', 'kitbag', 'kit bag']",hiking backpack,0
+60,meronyms - substance,plastic,gas,roof,"['shingles', 'tiles', 'wood', 'metal']",rain,0
+61,meronyms - substance,yogurt,milk,penny,"['metal', 'alloy', 'bronze', 'nickel', 'zinc', 'copper', 'tin']",cent,0
+62,meronyms - substance,roof,shingles,wall,"['cement', 'bricks', 'stones', 'rocks', 'wood', 'cardboard', 'board', 'plank', 'clay', 'mud']",bricks,1
+63,meronyms - substance,lens,plastic,glacier,"['ice', 'water', 'oxygen', 'hydrogen', 'h', 'h2o', 'atomic number 8', 'atomic number 1', 'o', 'water ice']",ice,1
+64,meronyms - substance,concrete,water,omelette,"['eggs', 'egg', 'milk', 'cheese']",egg,1
+65,meronyms - substance,bowl,aluminium,glacier,"['ice', 'water', 'oxygen', 'hydrogen', 'h', 'h2o', 'atomic number 8', 'atomic number 1', 'o', 'water ice']",ice,1
+66,meronyms - substance,cocktail,juice,doorknob,"['metal', 'steel', 'bronze', 'wood']",handle,0
+67,meronyms - substance,cloud,water,mirror,"['glass', 'bronze']",reflection,0
+68,meronyms - substance,ice,oxygen,mirror,"['glass', 'bronze']",silver,0
+69,meronyms - substance,lens,plastic,wine,"['grapes', 'grape']",grape,1
+70,meronyms - substance,pastry,filling,glass,['silicone'],liquid,0
+71,meronyms - substance,house,clay,wall,"['cement', 'bricks', 'stones', 'rocks', 'wood', 'cardboard', 'board', 'plank', 'clay', 'mud']",brick,1
+72,meronyms - substance,sea,water,mirror,"['glass', 'bronze']",reflection,0
+73,meronyms - substance,beach,sand,beard,['hair'],hair,1
+74,meronyms - substance,boots,leather,bottle,"['glass', 'plastic']",glass,1
+75,meronyms - substance,spoon,steel,ice,"['water', 'oxygen', 'hydrogen', 'water', 'h2o', 'atomic number 1', 'atomic number 8', 'h', 'o']",water,1
+76,meronyms - substance,flag,paper,boots,"['leather', 'canvas']",leather,1
+77,meronyms - substance,cocktail,water,ocean,['water'],land,0
+78,meronyms - substance,penny,nickel,glass,['silicone'],ceramic,0
+79,meronyms - substance,beach,pebbles,snow,"['water', 'oxygen', 'hydrogen', 'flake', 'ice', 'snowflake', 'snowflakes', 'h2o', 'atomic number 1', 'atomic number 8', 'h', 'o']",snowflakes,1
+80,meronyms - member,player,group,division,"['company', 'business', 'platoon', 'battle group']",team,0
+81,meronyms - member,secretary,staff,galaxy,['universe'],universe,1
+82,meronyms - member,juror,jury,secretary,['staff'],office,0
+83,meronyms - member,acrobat,troupe,car,"['train', 'procession']",driver,0
+84,meronyms - member,state,province,student,"['class', 'school']",pupil,0
+85,meronyms - member,spouse,family,letter,['alphabet'],correspondence,0
+86,meronyms - member,galaxy,universe,parishioner,"['parish', 'church']",church,1
+87,meronyms - member,wolf,pack,letter,['alphabet'],envelope,0
+88,meronyms - member,player,group,acrobat,['troupe'],troupe,1
+89,meronyms - member,word,paragraph,flower,"['bouquet', 'bunch']",bouquet,1
+90,meronyms - member,sheep,flock,song,"['album', 'collection', 'antology', 'library']",choir,0
+91,meronyms - member,car,train,fish,['school'],aquarium,0
+92,meronyms - member,tree,grove,division,"['company', 'business', 'platoon', 'battle group']",department,0
+93,meronyms - member,elephant,herd,christian,"['congregation', 'church', 'parish']",church,1
+94,meronyms - member,singer,duo,citizen,"['citizenry', 'country', 'state']",community,0
+95,meronyms - member,christian,parish,song,"['album', 'collection', 'antology', 'library']",chorus,0
+96,meronyms - member,tree,wood,fish,['school'],scales,0
+97,meronyms - member,song,collection,player,"['team', 'group', 'orchestra']",team,1
+98,meronyms - member,page,book,fish,['school'],aquarium,0
+99,meronyms - member,employee,company,tree,"['forest', 'wood', 'grove']",forest,1
+100,synonyms - intensity,well,prospering,necessary,"['essential', 'indispensable', 'vital', 'required']",essential,1
+101,synonyms - intensity,bad,dreadful,faith,"['fanatism', 'fanaticism', 'zealotry']",belief,0
+102,synonyms - intensity,indulge,pamper,sea,['ocean'],ocean,1
+103,synonyms - intensity,monkey,gorilla,necessary,"['essential', 'indispensable', 'vital', 'required']",essential,1
+104,synonyms - intensity,faith,fanatism,like,"['love', 'care', 'fond', 'crush', 'infatuate']",love,1
+105,synonyms - intensity,well,flourishing,nap,"['sleep', 'slumber']",refreshing,0
+106,synonyms - intensity,poorly,stricken,snack,"['meal', 'eat']",nibble,0
+107,synonyms - intensity,guilty,unworthy,poorly,"['afflicted', 'sick', 'ill', 'stricken']",inadequate,0
+108,synonyms - intensity,sniffles,pneumonia,cat,"['lion', 'tiger', 'leopard', 'panther', 'jaguar']",feline,0
+109,synonyms - intensity,nap,sleep,excited,"['agitated', 'nervous']",enthusiastic,0
+110,synonyms - intensity,sniffles,pneumonia,monkey,['gorilla'],ape,0
+111,synonyms - intensity,sea,ocean,boring,"['tedious', 'deadening', 'dull', 'ho hum', 'irksome', 'tiresome', 'wearisome']",dull,1
+112,synonyms - intensity,opposed,loath,love,"['adore', 'fetishize', 'idolize', 'idolise', 'worship', 'hero worship', 'revere']",hate,0
+113,synonyms - intensity,happy,ecstatic,sea,['ocean'],ocean,1
+114,synonyms - intensity,necessary,required,ask,"['beg', 'implore', 'pray', 'entreat', 'supplicate', 'insist']",inquire,0
+115,synonyms - intensity,necessary,indispensable,unhappy,"['miserable', 'suffering', 'wretched']",miserable,1
+116,synonyms - intensity,lake,ocean,indulge,"['pamper', 'spoil', 'coddle']",indulge,0
+117,synonyms - intensity,cat,tiger,lake,"['sea', 'ocean']",ocean,1
+118,synonyms - intensity,soon,immediately,dinner,"['feast', 'banquet', 'fiesta']",lunch,0
+119,synonyms - intensity,unhappy,wretched,house,"['palace', 'castle']",home,0
+120,synonyms - exact,new,modern,father,"['dad', 'daddy']",paternal,0
+121,synonyms - exact,snake,serpent,phone,"['telephone', 'cell', 'cellphone', 'smartphone']",telephone,1
+122,synonyms - exact,package,pack,obsolete,"['outdated', 'out of date', 'superannuated']",outdated,1
+123,synonyms - exact,package,pack,help,"['aid', 'assist']",assist,1
+124,synonyms - exact,flower,blossom,vocabulary,"['lexicon', 'wordbook', 'dictionary', 'glossary']",words,0
+125,synonyms - exact,bicycle,cycle,sofa,"['couch', 'lounge']",couch,1
+126,synonyms - exact,obsolete,out of date,mother,"['mom', 'mommy', 'mum']",parent,0
+127,synonyms - exact,organized,configured,baby,"['infant', 'babe']",infant,1
+128,synonyms - exact,loyal,reliable,monument,['memorial'],memorial,1
+129,synonyms - exact,flower,blossom,phone,"['telephone', 'cell', 'cellphone', 'smartphone']",ring,0
+130,synonyms - exact,organized,incorporated,jewel,"['gem', 'stone']",precious,0
+131,synonyms - exact,murder,execution,help,"['aid', 'assist']",aid,1
+132,synonyms - exact,sofa,lounge,incorrect,"['wrong', 'counterfactual', 'erroneous', 'inaccurate', 'specious', 'unsound', 'untrue', 'false']",wrong,1
+133,synonyms - exact,airplane,aeroplane,rock,['stone'],stone,1
+134,synonyms - exact,reasonable,sensible,jewel,"['gem', 'stone']",precious,0
+135,synonyms - exact,identical,indistinguishable,list,"['listing', 'enumeration']",enumerate,0
+136,synonyms - exact,confused,bewildered,sweets,"['confectionery', 'dessert', 'confection']",candy,0
+137,synonyms - exact,shore,coast,vocabulary,"['lexicon', 'wordbook', 'dictionary', 'glossary']",language,0
+138,synonyms - exact,loyal,reliable,mesh,"['gauze', 'netting', 'veiling', 'hairnet', 'reseau', 'net', 'save all', 'snood', 'sparker', 'tulle', 'wirework', 'grillwork']",interwoven,0
+139,synonyms - exact,portion,component part,incorrect,"['wrong', 'counterfactual', 'erroneous', 'inaccurate', 'specious', 'unsound', 'untrue', 'false']",erroneous,1
+140,antonyms - gradable,pale,bronzed,willing,"['unwilling', 'defiantnoncompliant', 'involuntary', 'nonvoluntary', 'unvoluntary', 'disinclined', 'averse', 'backward', 'hesitant', 'indisposed', 'loath', 'reluctant', 'uneager', 'unwishful']",unwilling,1
+141,antonyms - gradable,hot,frosty,close,"['distant', 'remote', 'removed', 'far', 'faraway']",distant,1
+142,antonyms - gradable,concerned,blithe,decisive,"['hesitating', 'indecisive', 'hesitant', 'inconclusive', 'irresolute']",carefree,0
+143,antonyms - gradable,fat,spindle shanked,gaseous,"['solid', 'hard', 'coagulated', 'solidified', 'concrete', 'congealed', 'jelled', 'jellied', 'dry', 'semisolid', 'solid state']",airy,0
+144,antonyms - gradable,hard,cushiony,white,"['black', 'dark', 'lightless']",black,1
+145,antonyms - gradable,noisy,unarticulate,introvert,"['extravert', 'extrovert', 'outgoing', 'extroverted', 'forthcoming', 'sociable']",shy,0
+146,antonyms - gradable,full,empty,happy,"['sad', 'bittersweet', 'doleful', 'mournful', 'heavyhearted', 'melancholy', 'melancholic', 'pensive', 'wistful', 'tragic', 'tragical', 'tragicomic', 'tragicomical', 'deplorable', 'distressing', 'lamentable', 'pitiful', 'sorry']",sad,1
+147,antonyms - gradable,normal,brachydactylic,lumpy,"['flat', 'level', 'plane', 'even']",bumpy,0
+148,antonyms - gradable,pale,brunet,cooked,"['raw', 'half baked', 'fresh', 'natural', 'underdone', 'rare', 'uncooked', 'untoasted']",uncooked,1
+149,antonyms - gradable,big,wee,colorful,"['colorless', 'colourless', 'dull', 'neutral', 'pale', 'white', 'bleached', 'faded', 'washed out', 'washy', 'drab', 'somber', 'sombre', 'dulled', 'greyed', 'etiolate', 'etiolated', 'lurid', 'waxen', 'waxlike', 'waxy', 'whitened']",drab,1
+150,antonyms - gradable,warm,frosty,wide,"['narrow', 'constricting', 'constrictive', 'narrowing', 'narrowed', 'narrow mouthed', 'slender', 'thin', 'strait', 'straplike', 'tapered', 'tapering', 'limited']",narrow,1
+151,antonyms - gradable,hot,frigid,common,"['rare', 'infrequent', 'scarce', 'uncommon', 'extraordinary']",rare,1
+152,antonyms - gradable,short,rangy,bright,"['pale', 'colorless', 'colourless', 'dull', 'neutral', 'pale', 'white', 'bleached', 'faded', 'washed out', 'washy', 'drab', 'somber', 'sombre', 'dulled', 'greyed', 'etiolate', 'etiolated', 'lurid', 'waxen', 'waxlike', 'waxy', 'whitened']",luminous,0
+153,antonyms - gradable,aware,oblivious,able,"['unable', 'incapable', 'incompetent', 'unequal']",incapable,1
+154,antonyms - gradable,competent,unskilled,fat,"['thin', 'lean', 'anorexic', 'anorectic', 'bony', 'cadaverous', 'emaciated', 'gaunt', 'haggard', 'pinched', 'skeletal', 'wasted', 'deep eyed', 'hollow eyed', 'sunken eyed', 'gangling', 'gangly', 'lanky', 'lank', 'spindly', 'rawboned', 'reedy', 'reedlike', 'twiggy', 'twiglike', 'scarecrowish', 'scraggy', 'boney', 'scrawny', 'skinny', 'underweight', 'weedy', 'shriveled', 'shrivelled', 'shrunken', 'withered', 'wizen', 'wizened', 'slender', 'slight', 'slim', 'svelte', 'slender waisted', 'slim waisted', 'wasp waisted', 'spare', 'trim', 'spindle legged', 'spindle shanked', 'stringy', 'wiry', 'wisplike', 'wispy']",thin,1
+155,antonyms - gradable,young,hoary,generous,"['stingy', 'beggarly', 'mean', 'cheap', 'chinchy', 'chintzy', 'cheeseparing', 'close', 'near', 'penny pinching', 'skinny', 'closefisted', 'hardfisted', 'tightfisted', 'grudging', 'niggardly', 'scrimy', 'mingy', 'miserly', 'tight', 'parsimonious', 'penurious', 'selfish', 'uncharitable', 'ungenerous', 'meanspirited']",stingy,1
+156,antonyms - gradable,common,extraordinary,decisive,"['hesitating', 'indecisive', 'hesitant', 'inconclusive', 'irresolute']",resolute,1
+157,antonyms - gradable,decisive,indecisive,concerned,"['unconcerned', 'blase', 'blithe', 'casual', 'insouciant', 'nonchalant', 'degage', 'detached', 'uninvolved', 'indifferent', 'careless', 'uninvolved', 'untroubled']",unconcerned,1
+158,antonyms - gradable,dangerous,harmless,noisy,"['silent', 'uncommunicative', 'dumb', 'mute', 'inarticulate', 'unarticulate']",quiet,0
+159,antonyms - gradable,concerned,untroubled,able,"['unable', 'incapable', 'incompetent', 'unequal']",incapable,1
+160,antonyms - binary,input,output,climb,"['descend', 'declivitous', 'downhill', 'downward sloping', 'degressive', 'descendant', 'descendent', 'down', 'downward', 'downward arching', 'drizzling', 'dropping', 'falling', 'raining']",descend,1
+161,antonyms - binary,off,on,dead,"['alive', 'living', 'live']",alive,1
+162,antonyms - binary,dive,emerge,dead,"['alive', 'living', 'live']",revive,0
+163,antonyms - binary,drop,lift,out,"['in', 'inside']",in,1
+164,antonyms - binary,inverse,turnabout,over,"['under', 'below', 'beneath']",under,1
+165,antonyms - binary,outward,upward,front,"['back', 'rear', 'forepart']",back,1
+166,antonyms - binary,inbound,outbound,interior,"['exterior', 'outdoor', 'out of door', 'outside']",exterior,1
+167,antonyms - binary,occupied,vacant,inside,"['outside', 'exterior', 'out']",outside,1
+168,antonyms - binary,mortal,immortal,uphill,"['downhill', 'decline', 'fall', 'declivitous', 'downward sloping']",downhill,1
+169,antonyms - binary,forward,backward,up,"['down', 'downwards', 'downward', 'downwardly']",down,1
+170,antonyms - binary,in,out,true,"['false', 'incorrect', 'wrong', 'mistaken']",false,1
+171,antonyms - binary,front,back,south,['north'],north,1
+172,antonyms - binary,dynamic,unmoving,first,"['last', 'end', 'terminal', 'ending', 'final', 'finish', 'finale', 'conclusion']",last,1
+173,antonyms - binary,front,back,before,"['after', 'subsequently', 'later', 'afterwards', 'afterward', 'ahead']",after,1
+174,antonyms - binary,in,out,inbound,['outbound'],outbound,1
+175,antonyms - binary,fall,upward,occupied,"['vacant', 'free']",unoccupied,0
+176,antonyms - binary,west,east,inverse,"['reverse', 'reversion', 'reversal', 'turnabout', 'turnaround']",reverse,1
+177,antonyms - binary,after,before,up,"['down', 'downwards', 'downward', 'downwardly']",down,1
+178,antonyms - binary,downslope,ascent,forward,"['backward', 'back', 'backwards', 'rearward', 'rearwards']",backward,1
+179,antonyms - binary,down,lead,up,"['down', 'downwards', 'downward', 'downwardly']",follow,0
+180,meronyms - part,car,inlet manifold,comb,"['teeth', 'shaft', 'grip', 'tooth', 'handle']",teeth,1
+181,meronyms - part,flower,flower petal,torso,"['chest', 'arse', 'shoulder', 'bum', 'midriff', 'groin', 'deltoid', 'diaphragm', 'lat', 'pectoralis', 'behind', 'gluteus', 'middle', 'stomach', 'teres', 'thorax', 'tush', 'ab', 'rump', 'breastbone', 'buns', 'gladiolus', 'haunch', 'backside', 'buttocks', 'serratus', 'pectoral', 'stern', 'navel', 'paunch', 'seat', 'mediastinum', 'ass', 'axilla', 'back', 'belly', 'bottom', 'omphalos', 'fundament', 'acromion', 'derriere', 'hindgut', 'gut', 'gallbladder', 'saddle', 'cheek', 'waist', 'butt', 'bowel', 'keister', 'bellybutton', 'pectus', 'prat', 'loins', 'abdominal', 'rear', 'dorsum', 'posterior', 'venter', 'small', 'abdomen', 'umbilicus', 'armpit', 'waistline', 'sternum', 'scapula', 'glute', 'manubrium', 'fanny', 'side', 'midsection', 'pecs', 'hip', 'buttock', 'intestine', 'breast', 'can', 'tail', 'hindquarters', 'xiphoid process', 'thoracic vertebra', 'abdominal wall', 'musculus deltoideus', 'abdominal cavity', 'arteria circumflexa scapulae', 'arteria glutes', 'arteria axillaris', 'axillary fossa', 'arteria colica', 'articulatio humeri', 'shoulder joint', 'gall bladder', 'spare tire', 'arteria circumflexa humeri', 'serratus muscles', 'axillary artery', 'gluteus muscle', 'love handle', 'latissimus dorsi', 'pectoral muscle', 'tooshie', 'abdominal muscle', 'circumflex humeral artery', 'abdominal aorta', 'vena thoracica', 'musculus pectoralis', 'hypochondrium', 'area of cardiac dullness', 'glenoid cavity', 'rib cage', 'thoracic aorta', 'omphalus', 'circumflex scapular artery', 'acromial process', 'shoulder bone', 'tail end', 'rear end', 'gluteal muscle', 'inguen', 'shoulder blade', 'rotator cuff', 'corpus sternum', 'dorsal vertebra', 'teres muscle', 'thoracic cavity', 'axillary cavity', 'chest cavity', 'deltoid muscle', 'belly button', 'gluteal artery', 'thoracic vein', 'glenoid fossa', 'nates', 'colic artery', 'lumbar vertebra', 'hind end']",limb,0
+182,meronyms - part,day,night,bus,"['seats', 'conductor', 'window', 'driver', 'roof']",train,0
+183,meronyms - part,pie,glazing,castle,"['donjon', 'tower', 'turret', 'gate', 'dungeon', 'moat', 'keep', 'great hall']",moat,1
+184,meronyms - part,window,window frame,pie,"['crust', 'cheese', 'filling', 'fruit', 'apple', 'berries', 'glazing', 'pastry', 'icing']",pie crust,1
+185,meronyms - part,pub,saloon,deer,"['antler', 'antlers', 'withers', 'flag', 'scut']",antelope,0
+186,meronyms - part,chair,armrests,pie,"['crust', 'cheese', 'filling', 'fruit', 'apple', 'berries', 'glazing', 'pastry', 'icing']",crust,1
+187,meronyms - part,tripod,stand,telephone,"['receiver', 'mouthpiece', 'dial', 'wire', 'screen', 'display', 'telephone receiver']",talk,0
+188,meronyms - part,door,casing,jewellery,"['bead', 'stone', 'wire', 'beads', 'gemstone', 'gem', 'metal', 'gold', 'silver', 'platina', 'bead', 'beads', 'jewel']",box,0
+189,meronyms - part,sonata,movement,byte,['bit'],data,0
+190,meronyms - part,castle,tower,piano,"['keyboard', 'clavier', 'loud', 'hammer', 'sounding', 'pedal', 'sustaining', 'soft', 'fingerboard', 'soundboard', 'action', 'board', 'key', 'fallboard', 'piano action', 'action mechanism', 'damper block', 'fall board', 'sounding board', 'sustaining pedal', 'loud pedal', 'piano damper', 'piano keyboard', 'sound hole', 'soft pedal']",keyboard,1
+191,meronyms - part,apartment,toilet,pie,"['crust', 'cheese', 'filling', 'fruit', 'apple', 'berries', 'glazing', 'pastry', 'icing']",crust,1
+192,meronyms - part,table,legs,deer,"['antler', 'antlers', 'withers', 'flag', 'scut']",antlers,1
+193,meronyms - part,apartment,bathroom,harbor,"['dock', 'facility', 'anchorage', 'landing', 'docking', 'dockage', 'anchorage ground', 'docking facility', 'landing place', 'landing stage']",dock,1
+194,meronyms - part,dress,plastron,bird,"['feathers', 'plume', 'preen', 'croup', 'calamus', 'fowl', 'drumstick', 'syrinx', 'bill', 'rump', 'vane', 'barb', 'quill', 'shaft', 'pecker', 'pennon', 'feet', 'giblets', 'alula', 'talon', 'foot', 'pinion', 'wing', 'wishbone', 'nib', 'sac', 'giblet', 'furcula', 'bird', 'neb', 'feather', 'gland', 'oyster', 'thigh', 'plumage', 'web', 'hindquarters', 'beak', ""parson's nose"", 'wishing bone', ""pope's nose"", 'spurious wing', 'bastard wing', 'croupe', 'air sac', 'quill feather', 'uropygium', ""bird's foot"", 'uropygial', 'second joint', 'uropygial gland', 'preen gland', 'flight feather', 'dark meat']",nest,0
+195,meronyms - part,orthography,punctuation mark,jail,"['cell', 'cellblock', 'guard', 'police', 'prison cell', 'jail cell']",prisoner,0
+196,meronyms - part,radio,wireless,deer,"['antler', 'antlers', 'withers', 'flag', 'scut']",wild,0
+197,meronyms - part,deer,antler,sword,"['blade', 'forte', 'hilt', 'peak', 'foible', 'point', 'pommel', 'haft', 'tip', 'knob', 'helve', 'knife edge', 'cutting edge']",blade,1
+198,meronyms - part,dress,zipper,chair,"['seat', 'armrest', 'headrest', 'armrests', 'rest', 'pad', 'back', 'leg', 'backrest', 'legs']",legs,1
+199,meronyms - part,sword,peak,torso,"['chest', 'arse', 'shoulder', 'bum', 'midriff', 'groin', 'deltoid', 'diaphragm', 'lat', 'pectoralis', 'behind', 'gluteus', 'middle', 'stomach', 'teres', 'thorax', 'tush', 'ab', 'rump', 'breastbone', 'buns', 'gladiolus', 'haunch', 'backside', 'buttocks', 'serratus', 'pectoral', 'stern', 'navel', 'paunch', 'seat', 'mediastinum', 'ass', 'axilla', 'back', 'belly', 'bottom', 'omphalos', 'fundament', 'acromion', 'derriere', 'hindgut', 'gut', 'gallbladder', 'saddle', 'cheek', 'waist', 'butt', 'bowel', 'keister', 'bellybutton', 'pectus', 'prat', 'loins', 'abdominal', 'rear', 'dorsum', 'posterior', 'venter', 'small', 'abdomen', 'umbilicus', 'armpit', 'waistline', 'sternum', 'scapula', 'glute', 'manubrium', 'fanny', 'side', 'midsection', 'pecs', 'hip', 'buttock', 'intestine', 'breast', 'can', 'tail', 'hindquarters', 'xiphoid process', 'thoracic vertebra', 'abdominal wall', 'musculus deltoideus', 'abdominal cavity', 'arteria circumflexa scapulae', 'arteria glutes', 'arteria axillaris', 'axillary fossa', 'arteria colica', 'articulatio humeri', 'shoulder joint', 'gall bladder', 'spare tire', 'arteria circumflexa humeri', 'serratus muscles', 'axillary artery', 'gluteus muscle', 'love handle', 'latissimus dorsi', 'pectoral muscle', 'tooshie', 'abdominal muscle', 'circumflex humeral artery', 'abdominal aorta', 'vena thoracica', 'musculus pectoralis', 'hypochondrium', 'area of cardiac dullness', 'glenoid cavity', 'rib cage', 'thoracic aorta', 'omphalus', 'circumflex scapular artery', 'acromial process', 'shoulder bone', 'tail end', 'rear end', 'gluteal muscle', 'inguen', 'shoulder blade', 'rotator cuff', 'corpus sternum', 'dorsal vertebra', 'teres muscle', 'thoracic cavity', 'axillary cavity', 'chest cavity', 'deltoid muscle', 'belly button', 'gluteal artery', 'thoracic vein', 'glenoid fossa', 'nates', 'colic artery', 'lumbar vertebra', 'hind end']",body,0
